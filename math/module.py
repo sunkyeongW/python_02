@@ -1,5 +1,3 @@
-#예제1
-
 def add(x, y):
     return x + y
 
@@ -15,7 +13,7 @@ def divide(x, y):
 def power(x, y):
     return x ** y
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     print('-' * 15)
     print(add(5,5))
     print(subtract(5,5))
